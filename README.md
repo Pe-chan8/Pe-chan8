@@ -1,10 +1,24 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/header.png" width="100%" />
-  <h1>ペー | AI-Bloom Developer 🌻</h1>
+  <h1>ペー | Product-focused Developer 🌻</h1>
   <p>"人の「負」を解消する仕組みづくり"をテーマに個人開発</p>
   <p>👉 <a href="#">Portfolio Site</a></p>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pe-chan8&theme=github-compact&radius=8" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pe-chan8&theme=github-dark&radius=8"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pe-chan8&theme=github-light&radius=8"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Pe-chan8&theme=github-light&radius=8"
+      width="95%"
+    />
+  </picture>
+
 </div>
 
 ---
