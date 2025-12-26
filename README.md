@@ -2,26 +2,26 @@
   <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/header.png" width="100%" />
   <h1>ペーちゃん | AI-Bloom Developer 🌻🐧</h1>
   <p>
-    自己理解・自己肯定感を育てるプロダクトを作っています
+    "人の「負」を解消する仕組みづくり"をテーマに個人開発中
   </p>
   <p>
-    👉 <a href="https://pe-chan8.github.io">Portfolio Site</a>
+    👉 <a href="#">Portfolio Site</a>
   </p>
 </div>
 
 ---
 
-## 🌱 About me
-- RUNTEQ71期 / Railsエンジニア
-- 「自分を責めずに振り返れる体験」をテーマに個人開発
+## About me 🌱
+- プログラミングスクール RUNTEQ でRailsを中心に学習中
+- 71期 コミュニティリーダー
 - メインプロダクト：**AI-Bloom**
 
 ---
 
-## 🛠 My Skills
+## My Skills
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,docker)](https://skillicons.dev)
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)](https://skillicons.dev)
@@ -31,23 +31,90 @@
 
 ---
 
-## 📊 Status
-<img src="https://streak-stats.demolab.com?user=Pe-chan8&theme=github-dark-dimmed&border_radius=10" />
+## My APP
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pe-chan8&layout=compact&theme=github_dark_dimmed" />
+### AI-Bloom（自己理解・自己肯定感アプリ）🌻
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_ai_bloom.png" width="80%" />
+</p>
 
-## 🚀 My APP
+**制作開始日**：2025/11/07  
+**MVPリリース日**：2025/12/18  
+**本リリース日**：2025/01/31 予定 
 
-<div align="center">
-  <a href="https://github.com/Pe-chan8/AI-Bloom">
-    <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_ai_bloom.png" width="30%" />
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_xxx.png" width="30%" />
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_yyy.png" width="30%" />
-  </a>
-</div>
+**アプリURL**：  
+https://ai-bloom.onrender.com 
+
+**GitHub URL**：  
+https://github.com/Pe-chan8/AI-Bloom
+
+### サービス概要
+AI-Bloomは、日々の出来事や感情を記録し、  
+AIとの対話を通して「自分を責めずに振り返る」体験を提供する  
+自己理解・自己肯定感支援アプリです。
+
+＜MVP＞
+- 日記投稿 × AIバディからのやさしい返信
+- ソーシャルタイプ診断による自己理解
+- 複数のAIバディから自身に合ったAIバディを選択
+
+＜本リリース＞
+- 投稿内容の深掘り
+- 自己分析（過去の投稿から強み・苦手な環境などをAIが言語化）
+
+### Coming soon
+
+<p align="center">
+  <img src="#" width="80%" />
+</p>
+
+**制作開始日**：未定
+**MVPリリース日**：未定
+**本リリース日**：未定
+
+**アプリURL**：  
+
+
+**GitHub URL**：  
+
+
+### サービス概要
+未定
+
+＜MVP＞
+- 
+- 
+- 
+
+＜本リリース＞
+- 
+- 
+
+### Coming soon
+
+<p align="center">
+  <img src="#" width="80%" />
+</p>
+
+**制作開始日**：未定
+**MVPリリース日**：未定
+**本リリース日**：未定
+
+**アプリURL**：  
+
+
+**GitHub URL**：  
+
+
+### サービス概要
+未定
+
+＜MVP＞
+- 
+- 
+- 
+
+＜本リリース＞
+- 
+- 
