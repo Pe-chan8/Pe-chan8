@@ -2,26 +2,26 @@
   <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/header.png" width="100%" />
   <h1>ペーちゃん | AI-Bloom Developer 🌻🐧</h1>
   <p>
-    自己理解・自己肯定感を育てるプロダクトを作っています
+    "人の「負」を解消する仕組みづくり"をテーマに個人開発中
   </p>
   <p>
-    👉 <a href="https://pe-chan8.github.io">Portfolio Site</a>
+    👉 <a href="#">Portfolio Site</a>
   </p>
 </div>
 
 ---
 
-## 🌱 About me
-- RUNTEQ71期 / Railsエンジニア
-- 「自分を責めずに振り返れる体験」をテーマに個人開発
+## About me 🌱
+- プログラミングスクール RUNTEQ でRailsを中心に学習中
+- 71期 コミュニティリーダー
 - メインプロダクト：**AI-Bloom**
 
 ---
 
-## 🛠 My Skills
+## My Skills
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,docker)](https://skillicons.dev)
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)](https://skillicons.dev)
@@ -31,14 +31,7 @@
 
 ---
 
-## 📊 Status
-<img src="https://streak-stats.demolab.com?user=Pe-chan8&theme=github-dark-dimmed&border_radius=10" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pe-chan8&layout=compact&theme=github_dark_dimmed" />
-
----
-
-## 🚀 My APP
+## My APP
 
 <div align="center">
   <a href="https://github.com/Pe-chan8/AI-Bloom">
