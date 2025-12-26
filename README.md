@@ -1,12 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/header.png" width="100%" />
   <h1>ペー | AI-Bloom Developer 🌻</h1>
-  <p>
-    "人の「負」を解消する仕組みづくり"をテーマに個人開発中
-  </p>
-  <p>
-    👉 <a href="#">Portfolio Site</a>
-  </p>
+  <p>"人の「負」を解消する仕組みづくり"をテーマに個人開発</p>
+  <p>👉 <a href="#">Portfolio Site</a></p>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pe-chan8&theme=github-compact&radius=8" />
 </div>
 
 ---
@@ -25,7 +23,7 @@
  - 顧客からの声を元に応対・面談資料　などの改善
  - 求職者・キャリアアドバイザーの性格特性の学習とそれに合わせた応対を研究
 
-**2025/07〜現在：** プログラミングスクール RUNTEQ でRailsを中心に学習中
+**2025/07〜現在：** プログラミングスクール RUNTEQ でRailsを中心に学習
  - RUNTEQ71期 コミュニティリーダー
  - メインプロダクト： **AI-Bloom**
 
@@ -58,6 +56,9 @@
   <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_ai_bloom.png" width="80%" />
 </p>
 
+**使用技術：**  
+Ruby / Rails / Hotwire / PostgreSQL / Render / Neon / OpenAI API
+
 ## サービス概要
 
 AI-bloom は、日々の小さな頑張りを“やさしく抱きしめ”、 
@@ -88,11 +89,15 @@ MVPでは日々の日記に対する共感やチアアップ、
 
 ---
 
-# Coming soon・・・
+# Coming soon・・・ 🚧
+
+新しいプロダクトを企画・検討中です。
 
 <p align="center">
   <img src="#" width="80%" />
 </p>
+
+**使用技術：**  
 
 ## サービス概要
 
@@ -116,11 +121,15 @@ MVPでは日々の日記に対する共感やチアアップ、
 
 ---
 
-# Coming soon・・・
+# Coming soon・・・ 🚧
+
+新しいプロダクトを企画・検討中です。
 
 <p align="center">
   <img src="#" width="80%" />
 </p>
+
+**使用技術：**  
 
 ## サービス概要
 
