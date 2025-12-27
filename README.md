@@ -4,21 +4,18 @@
   <p>"人の「負」を解消する仕組みづくり"をテーマに個人開発</p>
   <p>👉 <a href="#">Portfolio Site</a></p>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pe-chan8&theme=github-dark&radius=8"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pe-chan8&theme=github-light&radius=8"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Pe-chan8&theme=github-light&radius=8"
-      width="95%"
-    />
-  </picture>
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pe-chan8&theme=github"
+    width="95%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pe-chan8&theme=github"
+    width="47%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pe-chan8&theme=github"
+    width="47%"
+  />
 </div>
 
 ---
