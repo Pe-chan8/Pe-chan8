@@ -49,7 +49,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)](https://skillicons.dev)
 
 ## Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,figma,notion,discord)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,notion,discord)](https://skillicons.dev)
 
 ## Infra / Deployment / other
  - Render（Rails アプリの本番デプロイ）
