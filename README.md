@@ -40,13 +40,13 @@
 
 ---
 
-# My Skills
+# Learning
 
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind)](https://skillicons.dev)
 
 ## Tools
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,notion,discord)](https://skillicons.dev)
