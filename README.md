@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/header.png" width="100%" />
   <h1>ペー | Product-focused Developer 🌻</h1>
   <p>"人の「負」を解消する仕組みづくり"をテーマに個人開発</p>
-  <p>👉 <a href="#">Portfolio Site</a></p>
+  <p>👉 <a href="#">Portfolio Site（ Coming soon・・・ 🚧）</a></p>
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pe-chan8&theme=github"
