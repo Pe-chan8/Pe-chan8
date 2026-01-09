@@ -142,54 +142,24 @@ AI-Bloom は、成果を出すためのツールではなく、「自分のい�
 
 ---
 
-# なっとく！就活こんぱす（就活マッチング・選考管理アプリ）🧭
+# Other Projects
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_nattoku_compass.png" width="80%" /> </p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-**使用技術：**
-Ruby / Ruby on Rails / Hotwire（Turbo・Stimulus） / PostgreSQL / Docker / Render / Chart.js
+### なっとく！就活こんぱす 🧭
 
-## サービス概要
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_nattoku_compass.png" width="90%" />
+</p>
 
-なっとく！就活こんぱす は、
-面接の印象やクチコミに流されず、自分の価値観（自分軸）を基準に企業を比較できる
-就活の 選考管理 × マッチ度可視化アプリ です。
+**概要**  
+自分の価値観（自分軸）をもとに企業とのマッチ度を数値化・可視化する  
+就活の選考管理 × 企業比較アプリ。
 
-給与・社風・事業内容・面接の雰囲気・使用できる技術・勤務地などの
-定量・定性条件を 0〜100のスコア で評価し、
-総合マッチスコアとして数値化・グラフ（棒グラフ／レーダーチャート）で可視化します。
-
-また、複数の求人サイトやエージェントなど、
-応募媒体が分散しがちな 選考状況を一元管理 できるため、
-企業ごとの進捗とマッチ度を同時に確認できます。
-
-企業選びに「正解」はありません。
-でも、後から振り返っても説明できる“納得感のある選択”は作ることができます。
-
-## このアプリが提供する価値
-
- - 企業選びに 納得感 を与える
- - 自己理解を深め、判断軸を明確にする
- - 感情による意思決定のブレを減らし長期就業を支援する
- - 選考管理を一元化し、見落としを防ぐ
- - 自己理解を意思決定に活かし、**選択に責任と納得を持てる状態をつくる**
-
-## 開発背景
-
-就活では、企業の評判やクチコミは集められても、「自分に合うか」は最後まで曖昧なままになりがちです。
-
-さらに面接では、その場の雰囲気や感情に左右され、
-判断軸がブレたまま意思決定してしまうケースも少なくありません。
-
-結果として、「なぜその企業を選んだのか」を言語化できず、
-入社後のミスマッチにつながる課題を感じました。
-
-## 制作への想い
-
-このアプリは、就活の情報を集めるためのサービスではありません。
-自分の価値観を言語化し、判断軸を固定し、比較できる状態を作ることを目的としています。
-
-一時の感情に盲目にならず、自分に合う企業を見つけ、長く働くための助けになりたいと考えています。
+**使用技術**  
+Ruby / Rails / Hotwire / PostgreSQL / Docker / Render / Chart.js
 
 **制作開始日：** 2026/01/10
 
@@ -217,3 +187,30 @@ Ruby / Ruby on Rails / Hotwire（Turbo・Stimulus） / PostgreSQL / Docker / Ren
 **アプリURL：** Coming soon・・・
 
 **GitHub URL：** Coming soon・・・
+
+</td>
+<td width="50%" valign="top">
+
+### Coming soon 🚧
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_placeholder.png" width="90%" />
+</p>
+
+**概要**  
+構想・設計フェーズの新規プロダクト。  
+課題検証・要件整理を進行中。
+2026年2月以降の実装着手を予定しています。
+
+**使用予定技術**  
+Ruby / Rails / PostgreSQL
+
+**制作開始日：** 2026/02/01
+
+**MVPリリース日：** 2026/02/28
+
+**本リリース日：** 未定
+
+</td>
+</tr>
+</table>
