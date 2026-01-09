@@ -203,7 +203,7 @@ Ruby / Rails / Hotwire / PostgreSQL / Docker / Render / Chart.js
 2026年2月以降の実装着手を予定しています。
 
 **使用予定技術**  
-Ruby / Rails / PostgreSQL
+Ruby / Rails / Hotwire / PostgreSQL / Docker / Render
 
 **制作開始日：** 2026/02/01
 
