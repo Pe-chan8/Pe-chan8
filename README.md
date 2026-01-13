@@ -85,7 +85,7 @@
 
 # My APP
 
-## AI-Bloom（自己理解・自己肯定感アプリ）🌻
+## AI-Bloom（自己理解・自己受容アプリ）🌻
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_ai_bloom.png" width="80%" />
