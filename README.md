@@ -148,41 +148,38 @@ AI-Bloom は、成果を出すためのツールではなく、「自分のい�
 <tr>
 <td width="50%" valign="top">
 
-### なっとく！就活こんぱす 🧭
+### Coming soon 🚧
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_nattoku_compass.png" width="90%" />
+  <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_placeholder.png" width="90%" />
 </p>
 
 **概要**  
-自分の価値観（自分軸）をもとに企業とのマッチ度を数値化・可視化する  
-就活の選考管理 × 企業比較アプリです。
+
 
 **使用技術**  
-Ruby / Rails / Hotwire / PostgreSQL / Docker / Render / Chart.js
+
 
 **制作開始日：** 2026/01/10
 
 **MVPリリース日：** 2026/01/31
- - ユーザー登録 / ログイン
- - 企業登録（職種・応募媒体・選考状況・日付メモ）
- - 価値観診断（簡易）
- - 価値観スコアの一覧表示
- - 企業 × 価値観の評価入力（0〜100）
- - 総合マッチスコア算出
- - グラフ可視化（棒グラフ / レーダーチャート）
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
 
 **本リリース日：** 未定
- - 価値観スコア（重み）の手動調整・保存
- - 選考状況のカンバン表示
- - 面接バイアス補正（時間経過による評価調整）
- - エンジニア向け適性診断（受託 / SES / 自社 / ラボ型 / 社内SE など）
- - 働き方・学習志向などの追加診断
- - AI-Bloom との連携
-   - 価値観診断・自己分析結果の共有
-   - 自己PR作成用データ連携
- - CSV / 画像エクスポート
- - 匿名共有リンク（知人や家族などへの相談用）
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
 
 **アプリURL：** Coming soon・・・
 
@@ -198,18 +195,35 @@ Ruby / Rails / Hotwire / PostgreSQL / Docker / Render / Chart.js
 </p>
 
 **概要**  
-構想・設計フェーズの新規プロダクト。  
-課題検証・要件整理を進行中。
-2026年2月以降の実装着手を予定しています。
+
 
 **使用予定技術**  
-Ruby / Rails / Hotwire / PostgreSQL / Docker / Render
+
 
 **制作開始日：** 2026/02/01
 
 **MVPリリース日：** 2026/02/28
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
 
 **本リリース日：** 未定
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+**アプリURL：** Coming soon・・・
+
+**GitHub URL：** Coming soon・・・
 
 </td>
 </tr>
