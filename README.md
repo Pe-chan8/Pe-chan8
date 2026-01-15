@@ -8,14 +8,7 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pe-chan8&theme=github"
     width="95%"
   />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pe-chan8&theme=github"
-    width="47%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pe-chan8&theme=github"
-    width="47%"
-  />
+  
 </div>
 
 ---
@@ -28,6 +21,11 @@
 
 現在はその視点を活かしエンジニアとしても、
 人の声を起点に再現性のある仕組みで“負”を減らすことを目指しています。
+
+- **学習中**: Ruby / Ruby on Rails
+- **趣味**: アニメ・映画鑑賞 / ゲーム（PC） / 登山
+
+---
 
 # Background
 ### 学生時代より **"負"の解消** に携わることを軸としています。
@@ -48,6 +46,8 @@
  - 約4年間、求職者のキャリア支援に従事
  - 顧客の声をもとに、面談フローや支援内容、資料の改善を継続的に実施
  - 求職者・キャリアアドバイザー双方の性格特性を学習し、特性に合わせたコミュニケーションを研究
+
+---
 
 # Current
 ### **2025/07〜現在：** プログラミングスクール RUNTEQ 
