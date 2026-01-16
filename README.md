@@ -148,7 +148,7 @@ AI-Bloom は、成果を出すためのツールではなく、「自分のい�
 <tr>
 <td width="50%" valign="top">
 
-### Coming soon 🚧
+### 組み分けOnline
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_placeholder.png" width="90%" />
