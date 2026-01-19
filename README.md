@@ -150,7 +150,7 @@ AI-Bloom は、成果を出すためのツールではなく、「自分のい�
 ### くみわけOnline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_placeholder.png" width="90%" />
+  <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_kumiwake_online.png" width="90%" />
 </p>
 
 **概要**  
@@ -196,7 +196,7 @@ PostgreSQL / Docker / GitHub Actions
 ### Coming soon 🚧
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_kumawake_online.png" width="90%" />
+  <img src="https://raw.githubusercontent.com/Pe-chan8/Pe-chan8/main/assets/app_.png" width="90%" />
 </p>
 
 **概要**  
