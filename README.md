@@ -135,7 +135,7 @@ AI-Bloom は、成果を出すためのツールではなく、「自分のい�
  - 投稿内容の深掘り
  - 自己分析（過去の投稿から強み・苦手な環境などをAIが言語化）
 
-**アプリURL：** https://ai-bloom.onrender.com 
+**アプリURL：** https://ai-bloom.jp
 
 **GitHub URL：** https://github.com/Pe-chan8/AI-Bloom
 
