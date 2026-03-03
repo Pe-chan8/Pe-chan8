@@ -91,7 +91,7 @@
 </p>
 
 **使用技術：**  
-Ruby / Rails / Hotwire / PostgreSQL / Render / Neon / OpenAI API
+Ruby / Rails / Hotwire / PostgreSQL / Render / Neon / OpenAI API /RSpec
 
 ## サービス概要
 
