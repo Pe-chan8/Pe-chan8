@@ -59,7 +59,7 @@
 
 - テーマ：感情や思考の言語化、自己愛・自己理解の促進
 - スタンス：ユーザー視点での改善と継続的な価値提供
-- 技術スタック：Rails / Hotwire / PostgreSQL / Docker
+- 技術スタック：Rails / OpenAI / Hotwire / PostgreSQL / Docker
 
 ---
 
